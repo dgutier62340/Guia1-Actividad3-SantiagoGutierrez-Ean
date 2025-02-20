@@ -1,0 +1,1 @@
+public class Parqueadero {	private List<Vehiculo> vehiculos;	public void registrarEntrada() {	}	public void registrarSalida() {	}	public void consultarEstado() {	}}
